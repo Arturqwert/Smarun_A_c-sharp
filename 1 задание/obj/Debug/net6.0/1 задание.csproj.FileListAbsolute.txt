@@ -1,0 +1,15 @@
+C:\Users\artur\Desktop\1 задание\bin\Debug\net6.0\1 задание.exe
+C:\Users\artur\Desktop\1 задание\bin\Debug\net6.0\1 задание.deps.json
+C:\Users\artur\Desktop\1 задание\bin\Debug\net6.0\1 задание.runtimeconfig.json
+C:\Users\artur\Desktop\1 задание\bin\Debug\net6.0\1 задание.dll
+C:\Users\artur\Desktop\1 задание\bin\Debug\net6.0\ref\1 задание.dll
+C:\Users\artur\Desktop\1 задание\bin\Debug\net6.0\1 задание.pdb
+C:\Users\artur\Desktop\1 задание\obj\Debug\net6.0\1 задание.csproj.AssemblyReference.cache
+C:\Users\artur\Desktop\1 задание\obj\Debug\net6.0\1 задание.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\Desktop\1 задание\obj\Debug\net6.0\1 задание.AssemblyInfoInputs.cache
+C:\Users\artur\Desktop\1 задание\obj\Debug\net6.0\1 задание.AssemblyInfo.cs
+C:\Users\artur\Desktop\1 задание\obj\Debug\net6.0\1 задание.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\1 задание\obj\Debug\net6.0\1 задание.dll
+C:\Users\artur\Desktop\1 задание\obj\Debug\net6.0\ref\1 задание.dll
+C:\Users\artur\Desktop\1 задание\obj\Debug\net6.0\1 задание.pdb
+C:\Users\artur\Desktop\1 задание\obj\Debug\net6.0\1 задание.genruntimeconfig.cache
