@@ -5,3 +5,5 @@ ____
 * /* задание/* задание.sln
 
 В папке "4 задание" представлено решение задания 4.
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
