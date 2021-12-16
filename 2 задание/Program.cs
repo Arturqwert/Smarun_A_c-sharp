@@ -12,3 +12,4 @@ while (true)
     else
         Console.WriteLine("Нет такого имени");
 }
+//wtf

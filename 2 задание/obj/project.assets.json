@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\artur\\Desktop\\2 задание\\2 задание.csproj",
+      "projectUniqueName": "C:\\Users\\artur\\Desktop\\ghub\\2 задание\\2 задание.csproj",
       "projectName": "2 задание",
-      "projectPath": "C:\\Users\\artur\\Desktop\\2 задание\\2 задание.csproj",
+      "projectPath": "C:\\Users\\artur\\Desktop\\ghub\\2 задание\\2 задание.csproj",
       "packagesPath": "C:\\Users\\artur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\artur\\Desktop\\2 задание\\obj\\",
+      "outputPath": "C:\\Users\\artur\\Desktop\\ghub\\2 задание\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\artur\\AppData\\Roaming\\NuGet\\NuGet.Config",
